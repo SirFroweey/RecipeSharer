@@ -1,6 +1,21 @@
 # Recipe sharing project
 > Intends to be Django Rest Framework microservice API
 
+## Requirements
+- django
+- django rest framework
+- django-rest-auth
+- django-allauth
+
+## Instructions
+1. `pipenv --python 3.8`
+2. `pipenv install`
+3. `pipenv shell`
+4. `python manage.py makemigrations`
+5. `python manage.py migrate`
+6. `python manage.py runserver`
+
+
 ## Endpoints
 * /api/recipe/list (GET)
 > List all recipes endpoint.
