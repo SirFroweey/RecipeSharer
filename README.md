@@ -8,7 +8,7 @@
 - django-allauth
 
 ## Technical spec
-https://docs.google.com/document/d/1bkJeIOd7LjtO9bdxMe1jvN96qv_7cpt44X1WgwgKCu8/edit#heading=h.m148he27dc58
+https://docs.google.com/document/d/1bkJeIOd7LjtO9bdxMe1jvN96qv_7cpt44X1WgwgKCu8/edit?usp=sharing
 
 ## Instructions
 1. `pipenv --python 3.8`
